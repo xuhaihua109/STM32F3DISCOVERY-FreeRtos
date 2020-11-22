@@ -1,0 +1,5 @@
+##ignore theses files##
+/EWARM/STM32DISCOVERY-FREErtos/Obj/*.o
+/EWARM/STM32DISCOVERY-FREErtos/Obj/*.o
+/EWARM/STM32DISCOVERY-FREErtos/List/*.map
+/EWARM/STM32DISCOVERY-FREErtos/List/*.out
